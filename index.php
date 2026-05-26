@@ -14,7 +14,7 @@ $cv = [
     ["titulo" => "Desarrollo de Sistemas", "centro" => "IDAT", "anno" => "2018 - 2021"]
   ],
   "habilidades" => ["PHP", "React", "JavaScript", "HTML/CSS", "Git", "Docker", "Jenkins", "Linux", "Apache", "MySQL"],
-  "foto" => "https://ik.imagekit.io/tuusuario/foto.jpg?tr=w-300,h-300,c-maintain_ratio,f-webp,q-80"
+  "foto" => "https://ik.imagekit.io/ab5toqdqd/linkedin_profile.jpeg?tr=w-300,h-300,c-maintain_ratio,f-webp,q-80"
 ];
 ?>
 <!DOCTYPE html>
