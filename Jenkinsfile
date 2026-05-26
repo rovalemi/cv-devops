@@ -18,7 +18,7 @@ pipeline {
         stage('Desplegar en Apache') {
             steps {
                 sh '''
-                    cp -r . /var/www/html/cv_site/
+                    cp index.php /var/www/html/cv_site/index.php
                     echo "Desplegado correctamente"
                 '''
             }
