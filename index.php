@@ -2,16 +2,16 @@
 $cv = [
   "nombre" => "Alizon Rosales",
   "titulo" => "Desarrolladora Web Full Stack",
-  "email" => "rovaalemi.es@gamil.com",
+  "email" => "rovaalemi.es@gmail.com",
   "github" => "https://github.com/rovalemi",
-  "sobre_mi" => "Apasionado por el desarrollo web, el aprendizaje continuo y construir cosas que funcionen de verdad. Actualmente formandonme en entornos servidor, CI/CD y DevOps.",
+  "sobre_mi" => "Apasionada por el desarrollo web, el aprendizaje continuo y construir cosas que funcionen de verdad. Actualmente formandonme en entornos servidor, CI/CD y DevOps.",
   "experiencia" => [
     ["puesto" => "Practicas Desarrollo Web", "empresa" => "Nester", "periodo" => "2025 - 2026", "descripcion" => "Desarrollo de aplicaciones web con PHP, React y despliegue automatizado con Jenkins."],
     ["puesto" => "Proyecto Personal", "empresa" => "GitHub", "periodo" => "2024 - presente", "descripcion" => "CV online con pipeline CI/CD, CDN Cloudflare e imagenes optimizadas con ImageKit."]
   ],
   "educacion" => [
     ["titulo" => "Desarrollo de Aplicaciones Web", "centro" => "Monlau FP", "anno" => "2024 - 2026"],
-    ["titulo" => "Bachillerato Tecnologico", "centro" => "IES Ejemplo", "anno" => "2022 - 2024"]
+    ["titulo" => "Desarrollo de Sistemas", "centro" => "IDAT", "anno" => "2018 - 2021"]
   ],
   "habilidades" => ["PHP", "React", "JavaScript", "HTML/CSS", "Git", "Docker", "Jenkins", "Linux", "Apache", "MySQL"],
   "foto" => "https://ik.imagekit.io/tuusuario/foto.jpg?tr=w-300,h-300,c-maintain_ratio,f-webp,q-80"
